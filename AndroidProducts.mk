@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/octavi_mido.mk
+    $(LOCAL_DIR)/lineage_mido.mk
 
 COMMON_LUNCH_CHOICES := \
-    octavi_mido-eng \
-    octavi_mido-userdebug \
-    octavi_mido-user
+    lineage_mido-eng \
+    lineage_mido-userdebug \
+    lineage_mido-user
